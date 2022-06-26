@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.imagen-logo {
+    height: 4 cm;
+    border-radius: 4cm;
+}
+body{
+    background-color: blue;
+}
+P {
+    color: black;
+    width: 5CM;
+}
